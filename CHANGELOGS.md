@@ -2,6 +2,42 @@
 <h1>All The Forge 6 - ATF6 | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.5.0 (Beta 6)</h1>
+
+**Updated:**
+*Quark (r2.4.295 → r2.4-297)
+*GeckoLib (3.0.0 → 3.0.2)
+*Caelus (2.1.0.2 → 2.1.2.2)
+*Curiouselyra (4.0.0.1 → 4.0.2.0)
+*Architectury API (1.3.80 → 1.3.88)
+*Druidcraft (0.4.5 → 0.4.52)
+*Botania (4.10 → 411)
+*YUNG's Better Mineshafts (v2.0 → v2.0.1)
+*Applied Energistics 2 (8.2.0-beta.2 → 8.2.0-beta.3)
+*Biomes O' Plenty (13.0.0.428 → 13.0.0.430)
+*CodeChicken Lib 1.8.+ (3.5.0.401 → 3.5.1.408)
+*Ender Storage (2.7.0.161 → 2.7.1.166)
+*Integrated Dynamics (1.2.0 → 1.3.0)
+*JAOPCA (3.4.0.3 → 3.4.0.3)
+*Pam's HarvestCraft 2 - Food Core (1.0.0 → 1.0.1)
+*Polymorph (0.22 → 0.23)
+*Sophisticated Backpacks (1.2.1.127 → 1.3.4.136)
+
+**Changed/Fixed**
+*Fixed "Public Servers" Button
+*Updated Changelog URL
+
+**Added:**
+*Becorative Blocks modded compat
+
+**Removed:**
+*Better Title Screen
+
+
+Report any bugs & issues over at
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 
 <h1>1.4.0 (Beta 5)</h1>
 
