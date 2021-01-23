@@ -25,6 +25,7 @@
 
 **Changed/Fixed**
 *Fixed "Public Servers" Button
+*Updated Main Menu Credits
 *Updated Changelog URL
 
 **Added:**
