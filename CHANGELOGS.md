@@ -5,35 +5,41 @@
 <h1>1.5.0 (Beta 6)</h1>
 
 **Updated:**
-*Quark (r2.4.295 → r2.4-297)
-*GeckoLib (3.0.0 → 3.0.2)
-*Caelus (2.1.0.2 → 2.1.2.2)
-*Curiouselyra (4.0.0.1 → 4.0.2.0)
-*Architectury API (1.3.80 → 1.3.88)
-*Druidcraft (0.4.5 → 0.4.52)
-*Botania (4.10 → 411)
-*YUNG's Better Mineshafts (v2.0 → v2.0.1)
-*Applied Energistics 2 (8.2.0-beta.2 → 8.2.0-beta.3)
-*Biomes O' Plenty (13.0.0.428 → 13.0.0.430)
-*CodeChicken Lib 1.8.+ (3.5.0.401 → 3.5.1.408)
-*Ender Storage (2.7.0.161 → 2.7.1.166)
-*Integrated Dynamics (1.2.0 → 1.3.0)
-*JAOPCA (3.4.0.3 → 3.4.0.3)
-*Pam's HarvestCraft 2 - Food Core (1.0.0 → 1.0.1)
-*Polymorph (0.22 → 0.23)
-*Sophisticated Backpacks (1.2.1.127 → 1.3.4.136)
+<ul>
+<li>GeckoLib (3.0.0 → 3.0.2)</li></li></li></li>
+<li>Caelus (2.1.0.2 → 2.1.2.2)</li></li></li>
+<li>Curiouselyra (4.0.0.1 → 4.0.2.0)</li></li>
+<li>Architectury API (1.3.80 → 1.3.88)</li>
+<li>Druidcraft (0.4.5 → 0.4.52)</li></li></li></li></li></li></li>
+<li>Botania (4.10 → 411)</li></li></li></li></li></li>
+<li>YUNG's Better Mineshafts (v2.0 → v2.0.1)</li></li></li></li></li>
+<li>Applied Energistics 2 (8.2.0-beta.2 → 8.2.0-beta.3)</li></li></li></li>
+<li>Biomes O' Plenty (13.0.0.428 → 13.0.0.430)</li></li></li>
+<li>CodeChicken Lib 1.8.+ (3.5.0.401 → 3.5.1.408)</li></li>
+<li>Ender Storage (2.7.0.161 → 2.7.1.166)</li>
+<li>Integrated Dynamics (1.2.0 → 1.3.0)</li></li></li></li></li>
+<li>JAOPCA (3.4.0.3 → 3.4.0.3)</li></li></li></li>
+<li>Pam's HarvestCraft 2 - Food Core (1.0.0 → 1.0.1)</li></li></li>
+<li>Polymorph (0.22 → 0.23)</li></li>
+<li>Sophisticated Backpacks (1.2.1.127 → 1.3.4.136)</li>
+</ul>  
 
 **Changed/Fixed**
-*Fixed "Public Servers" Button
-*Updated Main Menu Credits
-*Updated Changelog URL
+<ul>
+<li>Fixed "Public Servers" Button</li></li></li>
+<li>Updated Main Menu Credits</li></li>
+<li>Updated Changelog URL</li>
+</ul> 
 
 **Added:**
-*Becorative Blocks modded compat
+<ul>
+<li>Becorative Blocks modded compat</li>
+</ul> 
 
 **Removed:**
-*Better Title Screen
-
+<ul>
+<li>Better Title Screen</li>
+</ul> 
 
 Report any bugs & issues over at
 https://github.com/AMPZNetwork/All-The-Forge-6
@@ -43,35 +49,43 @@ https://github.com/AMPZNetwork/All-The-Forge-6
 <h1>1.4.0 (Beta 5)</h1>
 
 **Updated:**
-*Ars Nouveau (1.10.6 → 1.11.1)
-*TerraForged (0.2.0-RC-2 → 0.2.0-RC-3)
-*Xaero's Mini Map (21.0.0 → 21.1.0)
-*Architenctury (1.3.8.1 → 1.3.80)
-*Bookshelf (9.3.25 → 10.0.1)
+<ul>
+<li>Ars Nouveau (1.10.6 → 1.11.1)</li>
+<li>TerraForged (0.2.0-RC-2 → 0.2.0-RC-3)</li></li></li></li>
+<li>Xaero's Mini Map (21.0.0 → 21.1.0)</li></li></li>
+<li>Architenctury (1.3.8.1 → 1.3.80)</li></li>
+<li>Bookshelf (9.3.25 → 10.0.1)</li>
+</ul> 
 
 **Changed/Fixed**
-*Added missing Faithful connected Textures
-*Added JEI GUI Texture (Faithful 32x only)
-*Disabled The Worn Notebook
-*Disabled Quarks Enhanced Ladders
-*Disabled Quarks Hotbar Changer
-*Disabled Astral Sorcery marble structure spawning in every biome
-*All The Forge 6 will warn users who are running 32bit Java's
-*Tweaked TerraForged default preset to lite
-*Main Menu Overhaul
+<ul>
+<li>Added missing Faithful connected Textures</li>
+<li>Added JEI GUI Texture (Faithful 32x only)</li>
+<li>Disabled The Worn Notebook</li>
+<li>Disabled Quarks Enhanced Ladders</li>
+<li>Disabled Quarks Hotbar Changer</li>
+<li>Disabled Astral Sorcery marble structure spawning in every biome</li>
+<li>All The Forge 6 will warn users who are running 32bit Java's</li>
+<li>Tweaked TerraForged default preset to lite</li>
+<li>Main Menu Overhaul</li>
+</ul>
 
 **Added:**
-*Quark O Plenty
-*JAOPCA
-*Cooking for Blockheads
-*Farming for Blockheads
-*FancyMenu
-*Konkrete
-*ChickenChunks
+<ul>
+<li>Quark O Plenty</li>
+<li>JAOPCA</li>
+<li>Cooking for Blockheads</li>
+<li>Farming for Blockheads</li>
+<li>FancyMenu</li>
+<li>Konkrete</li>
+<li>ChickenChunks</li>
+</ul>
 
 **Removed:**
-*FTB GUI Libary
-*PackMenu
+<ul>
+<li>FTB GUI Libary</li>
+<li>PackMenu</li>
+</ul>
 
 
 Report any bugs & issues over at
