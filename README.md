@@ -5,7 +5,7 @@ This is the official repository and issue-tracker for All The Forge 6
     
 #### Modpack Links: 
 + https://www.curseforge.com/minecraft/modpacks/all-the-forge-6 
-+ https://www.technicpack.net/modpack 
++ https://www.technicpack.net/modpack/all-the-forge-6-atf6.1800410
 + https://atlauncher.com/pack/AllTheForge6
   
 Need Help?
