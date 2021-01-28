@@ -2,6 +2,61 @@
 # All The Forge 6 - ATF6 | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.6.0 (Beta 7) </h1>
+
+**Updated:**
++ Minecraft Forge (36.0.1 → 36.0.9)
++ TerraForged (0.2.0-RC-3 → 0.2.0)
++ Ars Nouveau (1.11.1 → 1.11.2)
++ Architectury API (1.3.88 → 1.5.104)
++ Geckolib (3.0.2 → 3.0.6)
++ CraftPresence (1.7.6 →  1.16.5-1.7.6)
++ Baubles (1.8.5 → 1.8.7)
++ Immersive Engineering (4.1.2-129 → 4.2.0-130)
++ Storage Drawers (8.2.1 → 8.2.2)
++ Macaw's Roofs (2.0.0 → 2.0.1)
++ Macaw's Furniture (2.0.0 → 2.0.1)
++ Macaw's Bridges (1.0.4 → 1.0.5)
++ Macaw's Doors (1.0.1 →  1.0.2)
++ Macaw's Trapdoors (1.0.0 → 1.0.1)
++ Mekanism (10.0.18.445 → 10.0.19.446)
++ Mekanism Generators (10.0.18.445 → 10.0.19.446)
++ Mekanism Tools (10.0.18.445 → 10.0.19.446)
++ Xaero's Minimap (21.1.0 → 21.1.1)
++ OptiFine (G7 Pre 1 → G7 Pre 4)
++ Quark (r2.4-297 → r2.4-299)
++ RandomPatches (2.1.5 → 2.2.1)
+ 
+**Changed/Fixed**
++ The recommended Java to run ATF6 is now (1.8.0_281-b09)
++ Added "Report a Bug" button located in the in-game pause menu
++ Small Main Menu Tweaks
++ Renamed "Disconnect" to "Save & Quit"
++ Disabled Xaero Update Checker
++ Disabled Quark's animal textures
++ Moved Minimap back to top right of screen
+
+**Added:**
++ Torch Slabs Mod
++ Subterranean Wildnerness
++ XL Packets
++ Controllable
++ ModernUI
++ Controlling
++ GraveStone Mod
++ Smooth Boot
++ I Like Wood
++ I Like Wood Biomes O Plenty
+
+**Removed:**
++ Ding
++ It's The Little Things
++ Shutup experimental settings
+
+Report any bugs & issues over at
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 <h1>1.5.0 (Beta 6)</h1>
 
 **Updated:**
