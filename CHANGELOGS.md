@@ -2,6 +2,70 @@
 # All The Forge 6 - ATF6 | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.7.0 (Beta 8)</h1>
+
+**Updated:**
++ Minecraft Forge (36.0.9 → 36.0.13)
++ Ars Nouveau (1.11.2 → 1.11.4)
++ Architectury API (1.5.104 → 1.5.105)
++ BloodMagic (3.0.6-11 → 3.1.0-15)
++ Cucumber Library( 4.1.5 → 4.1.6)
++ Curios API (Forge) (4.0.3.5 → 4.0.4.0)
++ Controllable (0.10.1 → 0.10.2)
++ GeckoLib (3.0.6 → 3.0.10)
++ Industrial Foregoing (3.2.9-221 → 3.2.9.1)
++ Immersive Engineering (4.2.0-130 → 4.2.1-131)
++ Just Enough Items (7.6.1.65 → 7.6.1.66)
++ JAOPCA (3.4.0.3 → 3.4.0.4)
++ Tips (3.0.1 → 4.0.2)
++ Tetra (3.5.3 → 3.6.0) 
++ OldJavaWarning (6.0.1 → 7.0.1)
++ Quark (r2.4-299 → r2.4-303)
++ TerraForged (0.2.0 → 0.2.1)
++ YungsAPI (Forge 3 → Forge 4)
++ Titanium (3.2.5 → 3.2.6.1)
++ Polymorph (0.23 → 0.24)
++ RandomPatches (2.2.1 → 2.3.0)
++ Xaero's Minimap (21.1.1 → 21.2.0.1)
+ 
+**Changed/Fixed**
++ Pre mapped XBOX, PS4 and Switch controllers.
++ Disabled Bumblezone overworld generation. 
++ Fixed Main Menu music
++ Lowered the spawn rate of copper
++ Lowered the default render distance from 15 to 10
++ Re enabled Fog
++ Updated Testing Server IP
+
+**Added:**
++ The Abyss: Chapter II
++ Oh The Biomes You'll Go
++ Performant
++ Sound Device Options
++ Not Enough Crashes
++ Cosmetic Armor Reworked
++ Chisels & Bits
++ Corail Tombstone
++ Botany Pots 
++ Botany Trees 
++ MineColonies 
++ Better with Minecolonies 
++ Save My Strongehold
++ Village Spawn Point
+
+
+**Removed:**
++ Better Third Person
++ The Bumblezone
++ Biomes O Plenty 
++ I Like Wood - Biomes O Plenty
++ Modern UI
++ Gravestone Mod
+
+Report any bugs & issues over at
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 <h1>1.6.0 (Beta 7) </h1>
 
 **Updated:**
