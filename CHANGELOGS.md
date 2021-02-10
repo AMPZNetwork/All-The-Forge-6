@@ -2,6 +2,30 @@
 # All The Forge 6 - ATF6 | Patch Notes
 <h3>Be sure to always backup your world(s) before updating!</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.8.1 (Beta 9)</h1>
+
+**Updated:**
++ Minecraft Forge (36.0.15 → 36.0.22)
++ OptiFine (G7 Pre 7 → G7 Pre 8)
+
+**Changed/Fixed**
++ 
+
+**Added:**
++ FTB Essentials
++ FTB Gui Library
++ FTB Ranks
++ FTB Chunks
+
+
+**Removed:**
++ ChickenChunks
++ Xaeros MiniMap (conflict with FTB Chunks)
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 <h1>1.8.0 (Beta 9)</h1>
 
 **Updated:**
@@ -33,7 +57,7 @@
  
 **Changed/Fixed**
 + Main Menu Tweaks
-+ Fixed the loading screen images in the follow areas
++ Fixed the loading screen images in the following areas
 - World final creation screen
 - Download TerrainScreen
 
