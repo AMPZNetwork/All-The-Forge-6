@@ -77,7 +77,6 @@
 
 **Changed/Fixed**
 + Added our Minecraft Partner affiliate link under a new button called "Rent a Server!".
-+ Disabled FTB Chunks Minimap.
 + Disabled Waila fluid overlay
 + Disabled Quarks Slate and Marble
 + Fixed the main menu music cutting out when entering menus such as Singleplayer.
