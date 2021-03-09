@@ -37,8 +37,6 @@
 + Extreme Reactors (2.0.21 → 2.0.23)
 + FallingTree (2.10.0 → 2.10.2)
 + Farming for Blockheads (7.2.1 → 7.3.0)
-+ FTB Ranks (1604.1.1.10 → 1604.1.1.11)
-+ FTB GUI Library (1605.2.1.39 → 1605.2.1.40)
 + GeckoLib (3.0.13 → 3.0.15)
 + I Like Wood (6.0.0.0 → 6.1.1.0)
 + Immersive Engineering (4.2.1-131 → 4.2.3-133)
