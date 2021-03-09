@@ -2,6 +2,121 @@
 # All The Forge 6 - ATF6 | Patch Notes
 <h3>Be sure to always backup your world(s) before updating!</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.9.0 (Beta 10)</h1>
+
+<h4>No old worlds and servers are likely not going to work with this update.</h4>
+
+**Updated:**
++ Minecraft Forge (36.0.22 → 36.0.46)
++ Ars Nouveau (1.11.4 → 1.11.6)
++ Abnormals Core (3.0.6 → 3.1.0)
++ Architectury API (1.5.110 → 1.8.131)
++ Aquaculture 2 (2.1.13 → 2.1.16)
++ Botania (411 → 413)
++ Botany Trees (3.0.1 → 3.0.2)
++ Botany Pots (7.0.2 → 7.0.9)
++ Better Advancements (0.1.0.104 → 0.1.0.105)
++ Better Mineshafts (2.0.1 → 2.0.2) 
++ Buzzier Bees (3.0.0 → 3.0.1)
++ Collective (1.58 → 2.9)
++ Chisels & Bits (0.2.10 → 0.3.3)
++ Cloth Config API (4.1.3 → 4.11.14)
++ Caelus API (2.1.2.2 → 2.1.3.0)
++ Curios API (4.0.4.0 → 4.0.5.0)
++ Curious Elytra (4.0.2.0 → 4.0.2.3)
++ Compact Machines (4.0.0-alpha.6 → 4.0.0-beta.2)
++ Controllable (0.10.3 → 0.11.0)
++ Controlling (7.0.0.12 → 7.0.0.14)
++ Corail Tombstone (6.3.1 → 6.3.3)
++ Common Capabilities (2.5.5 → 2.5.7)
++ Clumps (6.0.0.13 → 6.0.0.17)
++ Cosmetic Armor Reworked (v1a → v1b)
++ Cyclops Core (1.11.1 → 1.11.4)
++ Cucumber Library (4.1.6 → 4.1.8)
++ Doggy Talents (2.0.1.2 → 2.0.1.3)
++ Extreme Reactors (2.0.21 → 2.0.23)
++ FallingTree (2.10.0 → 2.10.2)
++ Farming for Blockheads (7.2.1 → 7.3.0)
++ FTB Ranks (1604.1.1.10 → 1604.1.1.11)
++ FTB GUI Library (1605.2.1.39 → 1605.2.1.40)
++ GeckoLib (3.0.13 → 3.0.15)
++ I Like Wood (6.0.0.0 → 6.1.1.0)
++ Immersive Engineering (4.2.1-131 → 4.2.3-133)
++ Industrial Foregoing (3.2.9.2 → 3.2.10.1)
++ Integrated Dynamics (1.4.3 → 1.6.0)
++ Just Enough Items (7.6.1.66 → 7.6.1.71)
++ Just Enough Resources (0.12.0.104 → 0.12.0.107)
++ JAOPCA (3.4.0.4 → 3.4.0.6)
++ JEI Integration (6.1.1.11 → 7.0.1.15)
++ Macaw's Windows (1.0.2 → 1.0.3)
++ MineColonies (0.13.610 → 0.13.690)
++ Mekanism (10.0.19.446 → 10.0.21.448)
++ Mekanism Generators (10.0.19.446 → 10.0.21.448)
++ Mekanism Tools (10.0.19.446 → 10.0.21.448)
++ Mystical Agriculture (4.1.4 → 4.1.5)
++ Mystical Agradditions (4.1.3 → 4.1.4)
++ Titanium (3.2.6.2 → 3.2.8)
++ TerraForged (0.2.5 → 0.2.9)
++ The Abyss: Chapter II (1.2.0 → 1.9.6)
++ Tips (4.0.2 → 4.0.7)
++ Tetra (3.6.1 → 3.8.0)
++ Torch Slabs Mod (1.6.18 → 1.6.18)
++ ZeroCore 2 (2.0.19 → 2.0.21)
++ ShetiPhianCore (3.8.4 → 3.8.5)
++ Simply Jetpacks 2 (2.6.6.0 → 2.6.7.1)
++ Sophisticated Backpacks (2.1.1.153 → 2.2.5.19) 
++ Structurize (0.13.113 → 0.13.148)
++ Savage & Ravage (3.0.0 → 3.1.0)
++ OptiFine (G7 Pre 7 → G8 pre3)
++ Quark (r2.4-304 → r2.4-308)
++ Patchouli (48 → 50)
++ RandomPatches (2.4.0 → 2.4.4)
++ Waila Harvestability (1.1.13 → 1.1.14)
++ Waystones (7.3.1 → 7.4.0)
++ Village Spawn Point (1.4 → 1.5)
++ Neapolitan (2.0.1 → 2.1.0)
++ Not Enough Crashes (3.1.6 → 3.1.8)
+
+**Changed/Fixed**
++ Added our Minecraft Partner affiliate link under a new button called "Rent a Server!".
++ Disabled FTB Chunks Minimap.
++ Disabled Waila fluid overlay
++ Disabled Quarks Slate and Marble
++ Fixed the main menu music cutting out when entering menus such as Singleplayer.
++ Fixed Main Menu music not playing after pack is first loaded.
++ Small Main Menu UI tweaks.
++ Renamed "Texture Packs" to "Resource Packs".
++ Swaped "Back to Game" and "Mod Options" around
++ Tweaked Quarks config.
++ Twaked Appliedenergistics 2 power unit from AE to RF
++ New Loading Screen Image
+
+**Added:**
++ JourneyMap
++ Tetranomicon
++ Engineer's Decor
++ Engineer's Tools
++ Environmental
++ Abnormals Delight
++ Adaptive Performance Tweaks
++ Immersive Petroleum
++ Client Tweaks
++ Macaw's Fences and Walls
+
+
+**Removed:**
++ FTB Backups
++ FTB Chunks
++ FTB Essentials
++ Desired Servers
++ Performant
++ Game Menu Mod Option
++ Game Menu Remove GFARB
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 <h1>1.8.1 (Beta 9)</h1>
 
 **Updated:**
