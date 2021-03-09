@@ -102,6 +102,7 @@
 + Immersive Petroleum
 + Client Tweaks
 + Macaw's Fences and Walls
++ Farmers Delight
 
 
 **Removed:**
