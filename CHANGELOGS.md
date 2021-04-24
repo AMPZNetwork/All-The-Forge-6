@@ -2,6 +2,97 @@
 # All The Forge 6 - ATF6 | Patch Notes
 <h3>Be sure to always backup your world(s) before updating!</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.10.0 (Beta 11)</h1>
+
+**Updated:**
++ Minecraft Forge (36.0.58 → 36.1.4)
++ Abnormals Delight (1.0.1 → 1.1.0)
++ Architectury API (1.8.131 → 1.12.145)
++ Apotheosis (4.4.1 → 4.5.1)
++ Ars Nouveau (1.11.6 → 1.14.0)
++ Atmospheric (3.0.0 → 3.1.0)
++ Autumnity (2.0.1 → 2.1.0)
++ Bookshelf (10.0.1 → 10.0.7)
++ Botania (415 → 415)
++ Botany Pots (7.0.9 → 7.0.17)
++ Cloth Config API (4.11 → 4.11.19)
++ Collective (2.24 → 2.25)
++ CoFH Core (1.1.6 → 1.2.1)
++ Common Capabilities (2.5.7 → 2.6.0)
++ Cucumber Library (4.1.8 → 4.1.9)
++ Cyclops Core (1.11.4 → 1.11.5)
++ Create (v0.3e → v0.3.1c)
++ Clumps (6.0.0.17 → 6.0.0.21)
++ CraftPresence (1.7.6 → 1.8.1)
++ Controllable (0.11.0 → 0.12.1
++ Controlling (7.0.0.14 → 7.0.0.15)
++ Curios API (4.0.5.1 → 4.0.5.1)
++ Doggy Talents (2.0.1.3 → 2.0.1.4)
++ Engineer's Decor (1.1.9 → 1.1.13-b1)
++ FanyMenu (2.0.2 → 2.0.6)
++ Farmer's Delight (0.3.2 → 0.4.1)
++ GeckoLib (3.0.15 → 3.0.19)
++ Industrial Foregoing (3.2.10.1 → 3.2.11)
++ Integrated Dynamics (1.6.0 → 1.7.2)
++ I Like Wood (6.1.1.0 → 6.2.3.0)
++ Just Enough Items (JEI) (7.6.1.71 → 7.6.4.88)
++ JAOPCA (3.4.0.6 → 3.4.0.8)
++ Konkrete (1.1.4 → 1.1.6)
++ Mystical Agriculture (4.1.5 → 4.1.7)
++ Mystical Agradditions (4.1.4 → 4.1.5)
++ Mystical Customization (2.1.2 → 2.1.3)
++ Macaw's Trapdoors (1.0.2 → 1.0.2)
++ Oh The Biomes You'll Go (1.1.10 → 1.1.14)
++ Placebo (4.4.2 → 4.4.2)
++ Pam's HarvestCraft 2 - Crops (1.0.1 → 1.0.2)
++ Pam's HarvestCraft 2 - Trees (1.0.0 → 1.0.1)
++ Quark (r2.4-308 → r2.4-311)
++ Sophisticated Backpacks (2.2.5.201 → 2.2.9.243)
++ Subterranean Wilderness (1.1.2 → 1.2.0)
++ Tetranomicon (1.0 → 1.2)
++ Thermal Expansion (1.1.6 → 1.2.0)
++ Thermal Foundation (1.1.6 → 1.2.0)
++ Thermal Innovation (1.1.7 → 1.2.0)
++ Titanium (3.2.8 → 3.2.8.2)
++ Upgrade Aquatic (3.0.1 → 3.1.0)
++ YUNG's API (Forge-4 → Forge-6)
++ YUNG's Better Mineshafts (2.0.2 → 2.0.3)
++ OptiFine (G8 Pre6 → G8 Pre12)
++ Not Enough Crashes (3.1.8 → 3.2.0)
+
+**Changed/Fixed**
++ Added our Official Guilded Server.
++ Fixed in-game Mod Options button.
++ Fixed Forums menu button spelling mistake.
++ Fixed lack of mobs not spawning on the surface in hardmode. 
++ Reduced Particels from All to Minimal for Astral Sorcery and Minecraft.
++ Disabled Tower Ruins.
++ Updated Main Menu Panorama.
++ Updated Pack/Main Menu Logo.
+
+**Added:**
++ Tinkers Construct
++ The Twilight Forest
++ YUNG's Better Strongholds (Forge)
++ The Outer End
++ BetterEnd (Forge)
+
+**Removed:**
++ MineColonies
++ Better With Minecolonies
++ Village Spawn Point
++ Collective
++ Adaptive Performance Tweaks
++ Sound Device Options
++ Crash Utilities
++ Aquaculture 2
++ AI Improvements
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 <h1>1.9.0 (Beta 10)</h1>
 
 **Updated:**
