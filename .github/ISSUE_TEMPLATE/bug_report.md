@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help me improve Fossilzed
+about: Create a report to help me improve All The Forge 6
 title: "[BUG]"
-labels: bug
+labels: Bug
 assignees: ''
 
 ---
