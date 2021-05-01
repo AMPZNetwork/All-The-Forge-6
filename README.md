@@ -1,4 +1,6 @@
-# All The Forge 6 - ATF6
+<p align="center">
+| <img src="https://www.bisecthosting.com/images/CF/All_The_Forge_6/BH_ATF6_Header.png" alt="Get your server today!"  width="1920" height="200"></a>|
+</p>
 ======
 
 This is the official repository and issue-tracker for All The Forge 6
@@ -24,5 +26,5 @@ Looking for a Reliable Server Host?
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
 <p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/partners/custom-banners/efc540da-bc63-4958-9524-27f5e8c7dd87.png" alt="Get your server today!"  width="648" height="102"></a>|
+| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/All_The_Forge_6/BH_ATF6_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
 </p>
