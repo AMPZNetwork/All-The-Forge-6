@@ -5,75 +5,89 @@
 <h1>1.10.0 (Beta 11)</h1>
 
 **Updated:**
-+ Minecraft Forge (36.0.58 → 36.1.4)
-+ Abnormals Delight (1.0.1 → 1.1.0)
-+ Architectury API (1.8.131 → 1.12.145)
-+ Apotheosis (4.4.1 → 4.5.1)
-+ Ars Nouveau (1.11.6 → 1.14.0)
++ Minecraft Forge (36.0.58 → 36.1.23)
++ Abnormals Delight (1.0.1 → 1.1.1)
++ Architectury API (1.8.131 → 149)
++ Apotheosis (4.4.1 → 4.5.2)
++ Ars Nouveau (1.11.6 → 1.15.1)
 + Atmospheric (3.0.0 → 3.1.0)
-+ Autumnity (2.0.1 → 2.1.0)
++ Autumnity (2.0.1 → 2.1.1)
++ Applied Energistics 2 (8.3.0 Beta 1 → 8.3.0)
 + Bookshelf (10.0.1 → 10.0.7)
 + Botania (415 → 415)
 + Botany Pots (7.0.9 → 7.0.17)
++ Botany Trees (3.0.2 → 3.0.5)
 + Cloth Config API (4.11 → 4.11.19)
-+ Collective (2.24 → 2.25)
 + CoFH Core (1.1.6 → 1.2.1)
-+ Common Capabilities (2.5.7 → 2.6.0)
++ Common Capabilities (2.5.7 → 2.7.0)
 + Cucumber Library (4.1.8 → 4.1.9)
-+ Cyclops Core (1.11.4 → 1.11.5)
++ Cyclops Core (1.11.4 → 1.11.6)
 + Create (v0.3e → v0.3.1c)
-+ Clumps (6.0.0.17 → 6.0.0.21)
++ Clumps (6.0.0.17 → 6.0.0.22)
 + CraftPresence (1.7.6 → 1.8.1)
-+ Controllable (0.11.0 → 0.12.1
++ Controllable (0.13.0 → 0.13.1)
 + Controlling (7.0.0.14 → 7.0.0.15)
-+ Curios API (4.0.5.1 → 4.0.5.1)
++ Curios API (4.0.4.0 → 4.0.5.1)
++ Corail Tombstone (6.3.4 → 6.3.5)
 + Doggy Talents (2.0.1.3 → 2.0.1.4)
-+ Engineer's Decor (1.1.9 → 1.1.13-b1)
-+ FanyMenu (2.0.2 → 2.0.6)
-+ Farmer's Delight (0.3.2 → 0.4.1)
-+ GeckoLib (3.0.15 → 3.0.19)
++ Engineer's Decor (1.1.9 → 1.1.13-b2)
++ Engineer's Tools (1.1.4 → 1.1.5)
++ FancyMenu ( 2.0.6 → 2.0.6-1)
++ Farmer's Delight (0.3.2 → 0.4.2)
++ FallingTree (2.10.2 → 2.11.3)
++ GeckoLib (3.0.15 → 3.0.33)
 + Industrial Foregoing (3.2.10.1 → 3.2.11)
-+ Integrated Dynamics (1.6.0 → 1.7.2)
-+ I Like Wood (6.1.1.0 → 6.2.3.0)
-+ Just Enough Items (JEI) (7.6.1.71 → 7.6.4.88)
++ Integrated Dynamics (1.6.0 → 1.8.0)
++ I Like Wood (6.1.1.0 → 6.3.0.0)
++ Just Enough Items (JEI) (7.6.1.71 → 7.6.4.90)
 + JAOPCA (3.4.0.6 → 3.4.0.8)
 + Konkrete (1.1.4 → 1.1.6)
 + Mystical Agriculture (4.1.5 → 4.1.7)
 + Mystical Agradditions (4.1.4 → 4.1.5)
 + Mystical Customization (2.1.2 → 2.1.3)
 + Macaw's Trapdoors (1.0.2 → 1.0.2)
-+ Oh The Biomes You'll Go (1.1.10 → 1.1.14)
++ MGui (3.1.3 → 3.2.0)
 + Placebo (4.4.2 → 4.4.2)
+** Upload to Solder**
++ Patchouli (50 → 51)
 + Pam's HarvestCraft 2 - Crops (1.0.1 → 1.0.2)
 + Pam's HarvestCraft 2 - Trees (1.0.0 → 1.0.1)
 + Quark (r2.4-308 → r2.4-311)
-+ Sophisticated Backpacks (2.2.5.201 → 2.2.9.243)
-+ Subterranean Wilderness (1.1.2 → 1.2.0)
-+ Tetranomicon (1.0 → 1.2)
++ Sophisticated Backpacks (2.2.5.201 → 2.4.0.259)
++ Subterranean Wilderness (1.2.0 → 1.2.1)
 + Thermal Expansion (1.1.6 → 1.2.0)
 + Thermal Foundation (1.1.6 → 1.2.0)
 + Thermal Innovation (1.1.7 → 1.2.0)
 + Titanium (3.2.8 → 3.2.8.2)
++ Tetra (3.9.2 → 3.10.0)
++ Tetranomicon (1.0 → 1.2)
++ TerraForged (0.2.9 → 0.2.10)
++ Torch Slabs Mod (1.6.18 → 1.6.19)
 + Upgrade Aquatic (3.0.1 → 3.1.0)
 + YUNG's API (Forge-4 → Forge-6)
 + YUNG's Better Mineshafts (2.0.2 → 2.0.3)
-+ OptiFine (G8 Pre6 → G8 Pre12)
++ OptiFine (G8 Pre6 → G8 Pre14)
 + Not Enough Crashes (3.1.8 → 3.2.0)
++ Waila Harvestability (1.1.14 → 1.1.15)
 
 **Changed/Fixed**
 + Added our Official Guilded Server.
 + Fixed in-game Mod Options button.
 + Fixed Forums menu button spelling mistake.
-+ Fixed lack of mobs not spawning on the surface in hardmode. 
-+ Reduced Particels from All to Minimal for Astral Sorcery and Minecraft.
++ Fixed lack of mobs not spawning on the surface in hardmode.
++ Fixed Item drops limit #4 
++ Reduced Particles from All to Minimal for Astral Sorcery and Minecraft.
 + Disabled Tower Ruins.
 + Updated Main Menu Panorama.
 + Updated Pack/Main Menu Logo.
++ Updated Discord's Logo.
+
 
 **Added:**
 + Tinkers Construct
 + The Twilight Forest
 + YUNG's Better Strongholds (Forge)
++ Repurposed Structures
 + The Outer End
 + BetterEnd (Forge)
 
@@ -82,16 +96,17 @@
 + Better With Minecolonies
 + Village Spawn Point
 + Collective
++ Structurize
 + Adaptive Performance Tweaks
 + Sound Device Options
 + Crash Utilities
 + Aquaculture 2
 + AI Improvements
-
++ Oh The Biomes You'll Go
++ Save My Stronghold! (Better Strongholds has it built in)
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/All-The-Forge-6
-
 ---------------------------------------------------------------------------------------------
 <h1>1.9.0 (Beta 10)</h1>
 
