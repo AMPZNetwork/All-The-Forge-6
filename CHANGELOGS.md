@@ -2,6 +2,36 @@
 # All The Forge 6 - ATF6 | Patch Notes
 <h3>Be sure to always backup your world(s) before updating!</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.10.1 (Beta 11)</h1>
+
+**Updated:**
++ Minecraft Forge (36.1.23 → 36.1.24)
++ Apotheosis (4.5.2 → 4.6.0)
++ Decorative Blocks modded compat (1.1 → 1.2)
++ FancyMenu (2.0.6-1 → 2.0.7)
++ Twilight Forest (4.0.435 → 4.0.467)
++ Placebo (4.4.2 → 4.4.5)
++ Tetra (3.10.0 → 3.11.1)
++ YUNG's Better Caves (1.1.1 → 1.1.2)
++ Better Advancements (0.1.0.105 → 0.1.0.108)
+
+
+
+**Changed/Fixed**
++ Fixed an issue with TerraForged not being the default world.
++ Fixed an issue with Twilight Forest config breaking.
++ Fixed a crash that would happen when clicking singleplayer.
+
+
+**Added:**
++ ModernWorldCreation
+
+**Removed:**
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge-6
+---------------------------------------------------------------------------------------------
 <h1>1.10.0 (Beta 11)</h1>
 
 **Updated:**
